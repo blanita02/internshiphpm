@@ -1,3 +1,4 @@
+// We can also change the whole app to ES6 syntax but it will be like this for the task
 const http = require("http");
 
 const hostname = "127.0.0.1";
