@@ -1,8 +1,8 @@
 import React from "react"
 
 class Car {
-    model: string
-    price: number
+    private model: string
+    private price: number
     constructor(model: string, price: number) {
         this.model = model
         this.price = price
