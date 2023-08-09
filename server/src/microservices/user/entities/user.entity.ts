@@ -13,6 +13,4 @@ export class User {
 
   @Column()
   email: string;
-
-  // ... other properties
 }
